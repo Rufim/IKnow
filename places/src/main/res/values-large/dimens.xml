@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Grid Item dimens -->
+
+    <dimen name="title_text_top_margin">20dip</dimen>
+    <dimen name="title_text_left_margin">10dip</dimen>
+    <dimen name="title_text_size">26dip</dimen>
+
+    <dimen name="type_text_bot_margin">20dp</dimen>
+    <dimen name="type_text_left_margin">20dp</dimen>
+    <dimen name="type_text_size">16dp</dimen>
+</resources>
